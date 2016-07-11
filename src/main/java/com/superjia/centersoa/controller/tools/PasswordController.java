@@ -1,4 +1,4 @@
-package com.superjia.centersoa.controller;
+package com.superjia.centersoa.controller.tools;
 
 import com.superjia.centersoa.model.PasswordBean;
 import org.springframework.stereotype.Controller;
